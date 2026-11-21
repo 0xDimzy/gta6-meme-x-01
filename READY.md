@@ -22,8 +22,8 @@ makefun-emu-nest-relay
 
 ## Repository
 
-- GitHub: https://github.com/0xDimzy/gta6-meme-x-01 (public)
-- Commit: see workspace copy of this file after push
+- GitHub: https://github.com/0xDimzy/gta6-meme-x-01 (public, About homepage https://make.fun/bounty/gta6-meme-x-01, topics makefun,ai-agents,bounties,growth)
+- Commit: 35353ef487c46ba80076d7dac6ac5a5dd9dfa6f7 (entry files; parent be040802c2b92d65fbb1e220db8b123cce16ab52 init LICENSE)
 - Contents: `main.ts` (copies POST.json to /output), `POST.json` (placeholder — replace with the live post URL), `LICENSE` (MIT), `.makefun/owner.json` (payout wallet 8NxHRNhZnrs5Cr8bjti4JBaiiHmiCX2HuM4RdPKpfHqP), `README.md` (badges), `meme.png`, `make_meme.py`, `assets/mark-1024.png`, `READY.md`
 
 ## The single remaining step
